@@ -8,6 +8,9 @@ This is an inrtoduction.
 #Really cool results
 cool results
 
+#Figures
+beautiful papers
+
 #References
 Smith, J (2020).
 Markello, R (2020).
